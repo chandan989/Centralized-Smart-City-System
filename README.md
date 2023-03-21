@@ -3,7 +3,7 @@ A revolutionary traffic management system, which will play a crucial role in the
 
 we are designing a centralised management system which will utilize a combination of various software and hardware. The Following are it’s currently planned implementations of the system.
 
-•	Smart Traffic Management System: We propose a smart traffic management system which will prevent vehicles from crossing red signals. Hence considerably avoiding accidents. It consists of a easily deployable autonomous blockage system. It uses a mechanism which is somewhat similar to a scissor providing quick deployment. 
+•	**Smart Traffic Management System:** We propose a smart traffic management system which will prevent vehicles from crossing red signals. Hence considerably avoiding accidents. It consists of a easily deployable autonomous blockage system. It uses a mechanism which is somewhat similar to a scissor providing quick deployment. 
 
 •	Traffic density-based light time adjustable system: A density based traffic light system is a tech that adjusts the duration of traffic lights on a particular road based on the density of vehicles waiting on that road at a particular instance of time. All the calculations are done real time hence greatly increasing the authenticity of the system. The system uses ultrasonic sensors to the detect the number of vehicles on that road and adjust the light duration of the green light in particular to allow more vehicles to pass through the intersection, without having more effect on the collective waiting time of vehicles.
 
